@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MymekDeveloper
-- 👀 I’m interested in UX/UI and developing android applications
-- 🌱 I’m currently learning Java and Kotlin language
-- 💞️ I’m looking to collaborate on product design projects
+- 👀 I have experience in UX/UI Design and creating HTML/CSS website with simple JS functionalities.
+- 🌱 I’m currently learning PHP and MYSQL Language
+- 💞️ I’m looking to collaborate on diffrent projects, in both frontend and backend.
 - 📫 How to reach me? szwed.szymon1@gmail.com
 
 <!---
