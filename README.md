@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MymekDeveloper
-- 👀 I have experience in UX/UI Design and creating HTML/CSS website with simple JS functionalities.
-- 🌱 I’m currently learning PHP and MYSQL Language
+- 👀 I have experience in UX/UI Design and creating full-stack applications using MEAN Stack
+- 🌱 I’m currently working as full-stack PHP developer, and learning Angular and MongoDB
 - 💞️ I’m looking to collaborate on diffrent projects, in both frontend and backend.
 - 📫 How to reach me? szwed.szymon1@gmail.com
 
